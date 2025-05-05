@@ -11,7 +11,7 @@ If you're a solo developer or small team looking to publish your game — digita
 
 | Publisher | Platforms | Genres | Submission Link |
 |----------|-----------|--------|------------------|
-| [Devolver Digital](https://www.devolverdigital.com/) | PC, Console | Action, Weird, Unique | [Submit Here](https://devolverdigital.com/pitch) |
+| [Devolver Digital](https://www.devolverdigital.com/) | PC, Console | Action, Weird, Unique | [Submit Here]([https://devolverdigital.com/pitch](https://pitch.devolverdigital.com/)) |
 | [Annapurna Interactive](https://annapurnainteractive.com/) | PC, Console | Story-rich, Narrative | Submission closed |
 | [Raw Fury](https://rawfury.com/) | PC, Console | Pixel, Atmospheric | [Contact](https://rawfury.com/contact/) |
 | [No More Robots](https://www.nomorerobots.io/) | PC, Console | Simulation, Management | [Submit Game](https://www.nomorerobots.io/contact) |
