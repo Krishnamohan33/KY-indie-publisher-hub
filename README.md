@@ -1,22 +1,9 @@
-# 🎮 Indie Game Publishers List  
-A curated and regularly updated list of publishers that support indie game developers — across PC, console, mobile, and multiplatform.
+# 🎮 Indie Game Publishers List
 
-> ✨ Ideal for solo devs and small teams looking to get their games funded, published, marketed, or distributed.
+A curated list of publishers that work with **indie game developers**.  
+If you're a solo developer or small team looking to publish your game — digitally or physically — this is for you.
 
----
-
-## 🔍 Why This Exists
-
-Finding the right publisher as an indie dev can be tough. This repo makes it easier by listing **reputable publishers**, along with their **preferred genres, platforms, and submission links**.
-
----
-
-## 📋 Table of Contents
-
-1. 🔗 Publisher List (with links)
-2. 📩 Submission Guidelines
-3. 🧠 Tips for Pitching to Publishers
-4. 📝 Contribution Guide
+> ✅ Most of the links below go directly to submission pages or contact forms!
 
 ---
 
@@ -25,7 +12,7 @@ Finding the right publisher as an indie dev can be tough. This repo makes it eas
 | Publisher | Platforms | Genres | Submission Link |
 |----------|-----------|--------|------------------|
 | [Devolver Digital](https://www.devolverdigital.com/) | PC, Console | Action, Weird, Unique | [Submit Here](https://devolverdigital.com/pitch) |
-| [Annapurna Interactive](https://annapurnainteractive.com/) | PC, Console | Story-rich, Narrative | Closed submissions |
+| [Annapurna Interactive](https://annapurnainteractive.com/) | PC, Console | Story-rich, Narrative | Submission closed |
 | [Raw Fury](https://rawfury.com/) | PC, Console | Pixel, Atmospheric | [Contact](https://rawfury.com/contact/) |
 | [No More Robots](https://www.nomorerobots.io/) | PC, Console | Simulation, Management | [Submit Game](https://www.nomorerobots.io/contact) |
 | [Playism](https://playism.com/) | PC, Console | Japanese Indies, Art | [Apply](https://playism.com/contact/) |
@@ -37,10 +24,13 @@ Finding the right publisher as an indie dev can be tough. This repo makes it eas
 
 ---
 
-## 📩 Tips Before Submitting
+## 🧠 Tips Before Submitting
 
-- Have a pitch deck ready (PDF or web-based).
-- A short gameplay trailer helps a lot.
-- Include team details, funding needs, timeline, and platforms.
+- ✅ Prepare a **pitch deck** (PDF or web format).
+- 🎥 Include a **short gameplay video** or trailer.
+- 👥 Mention your team size, budget needs, timeline, and platforms.
+- 💡 Tailor your pitch to the publisher’s focus and past projects.
 
 ---
+
+
