@@ -1,36 +1,44 @@
 # 🎮 Indie Game Publishers List
 
 A curated list of publishers that work with **indie game developers**.  
-If you're a solo developer or small team looking to publish your game — digitally or physically — this is for you.
-
-> ✅ Most of the links below go directly to submission pages or contact forms!
+If you're a solo developer or small team looking to publish your game — digitally or physically — this list is for you.
 
 ---
 
 ## 🔗 Publisher List
 
-| Publisher | Platforms | Genres | Submission Link |
-|----------|-----------|--------|------------------|
-| [Devolver Digital](https://www.devolverdigital.com/) | PC, Console | Action, Weird, Unique | [Submit Here]([https://devolverdigital.com/pitch](https://pitch.devolverdigital.com/)) |
-| [Annapurna Interactive](https://annapurnainteractive.com/) | PC, Console | Story-rich, Narrative | Submission closed |
-| [Raw Fury](https://rawfury.com/) | PC, Console | Pixel, Atmospheric | [Contact](https://rawfury.com/contact/) |
-| [No More Robots](https://www.nomorerobots.io/) | PC, Console | Simulation, Management | [Submit Game](https://www.nomorerobots.io/contact) |
-| [Playism](https://playism.com/) | PC, Console | Japanese Indies, Art | [Apply](https://playism.com/contact/) |
-| [Armor Games Studios](https://armorgamesstudios.com/) | PC | Indie, Casual, Platformers | [Partner With Us](https://armorgamesstudios.com/publishing/) |
-| [Humble Games](https://www.humblegames.com/) | PC, Console | All Genres | Invitation-based |
-| [TinyBuild](https://www.tinybuild.com/) | PC, Console | Survival, Simulation | [Contact](https://www.tinybuild.com/contact) |
-| [Team17](https://www.team17.com/) | PC, Console | Strategy, Simulation | [Submission](https://www.team17.com/publishing/) |
-| [Akupara Games](https://www.akuparagames.com/) | PC, Console | Narrative, Atmospheric | [Submit](https://www.akuparagames.com/publishing) |
+| Publisher | Platforms | Genres |
+|----------|-----------|--------|
+| [Devolver Digital](https://www.devolverdigital.com/) | PC, Console | Action, Weird, Unique |
+| [Annapurna Interactive](https://annapurnainteractive.com/) | PC, Console | Story-rich, Narrative |
+| [Raw Fury](https://rawfury.com/) | PC, Console | Pixel, Atmospheric |
+| [No More Robots](https://www.nomorerobots.io/) | PC, Console | Simulation, Management |
+| [Playism](https://playism.com/) | PC, Console | Japanese Indies, Art |
+| [Armor Games Studios](https://armorgamesstudios.com/) | PC | Indie, Casual, Platformers |
+| [Humble Games](https://www.humblegames.com/) | PC, Console | All Genres |
+| [TinyBuild](https://www.tinybuild.com/) | PC, Console | Survival, Simulation |
+| [Team17](https://www.team17.com/) | PC, Console | Strategy, Simulation |
+| [Akupara Games](https://www.akuparagames.com/) | PC, Console | Narrative, Atmospheric |
 
 ---
 
-## 🧠 Tips Before Submitting
+## 🎯 Services for Indie Developers
 
-- ✅ Prepare a **pitch deck** (PDF or web format).
-- 🎥 Include a **short gameplay video** or trailer.
-- 👥 Mention your team size, budget needs, timeline, and platforms.
-- 💡 Tailor your pitch to the publisher’s focus and past projects.
+Looking to polish your game before pitching to publishers? I offer the following services on Fiverr:
+
+- 🧪 **[Game Testing (Bug Reports & Feedback)](https://www.fiverr.com/s/5rPy5pv)**
+- 📄 **[Game Design Document (GDD) Creation](https://www.fiverr.com/s/KeEvXqW)**
+
+These services are perfect for solo developers and small teams preparing to submit their game for publishing.
 
 ---
 
+## 🧠 Tips Before Pitching
+
+- ✅ Create a clear **pitch deck** or one-sheet.
+- 🎥 Include a short **gameplay trailer** or demo.
+- 🧩 Tailor your pitch to match the publisher’s previous projects.
+- 💬 Be clear about budget, team size, and platform goals.
+
+---
 
